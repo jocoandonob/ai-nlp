@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: Arial, sans-serif; font-weight: bold; }
+    .highlight { fill: #7792E2; }
+    .background { fill: #1E2130; }
+  </style>
+  
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" class="background" stroke="#7792E2" stroke-width="3" />
+  
+  <!-- Text Elements -->
+  <text x="100" y="90" font-size="38" text-anchor="middle" class="text" fill="#FFFFFF">joco</text>
+  <text x="100" y="130" font-size="48" text-anchor="middle" class="text highlight">NLP</text>
+  
+  <!-- Decorative Elements -->
+  <path d="M50,50 C70,30 130,30 150,50" stroke="#7792E2" stroke-width="2" fill="none" />
+  <path d="M50,150 C70,170 130,170 150,150" stroke="#7792E2" stroke-width="2" fill="none" />
+  
+  <!-- Data/Language Visualization Elements -->
+  <circle cx="65" cy="60" r="3" fill="#FFFFFF" />
+  <circle cx="80" cy="55" r="3" fill="#FFFFFF" />
+  <circle cx="120" cy="55" r="3" fill="#FFFFFF" />
+  <circle cx="135" cy="60" r="3" fill="#FFFFFF" />
+  
+  <circle cx="65" cy="140" r="3" fill="#FFFFFF" />
+  <circle cx="80" cy="145" r="3" fill="#FFFFFF" />
+  <circle cx="120" cy="145" r="3" fill="#FFFFFF" />
+  <circle cx="135" cy="140" r="3" fill="#FFFFFF" />
+</svg>
