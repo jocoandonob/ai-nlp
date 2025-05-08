@@ -1,5 +1,7 @@
 # Natural Language Processing Portfolio
 
+![Application Interface](thumb.png)
+
 ![jocoNLP Logo](static/jocoNLP.svg)
 
 ## Overview
